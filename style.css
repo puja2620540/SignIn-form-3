@@ -83,3 +83,32 @@ body{
     font-size:12px;
     font-weight:bold;
 }
+
+@media (max-width: 768px){
+
+    .container{
+        width:90%;
+        height:auto;
+    }
+
+    .container .left,
+    .container .right{
+        float:none;
+        width:100%;
+        height:auto;
+    }
+
+    .container .left{
+        height:200px;
+        background-position:center;
+    }
+
+    .formBox{
+        padding:40px 25px;
+        height:auto;
+    }
+
+    .title h1{
+        font-size:26px;
+    }
+}
