@@ -2,7 +2,6 @@ body{
     margin:0;
     padding:0;
     background:#552619;
-    /* background:#CEDDBB; */
     background-size:cover;
 }
 .title{
@@ -19,7 +18,6 @@ body{
 .container{
     width:50%;
     height:400px;
-    /* background:#fff; */
     margin:0 auto;
     border:2px solid #fff;
     box-shadow:0 15px 40px rgb(0,0,0.5);
@@ -112,4 +110,5 @@ body{
         font-size:26px;
     }
 }
+
 
